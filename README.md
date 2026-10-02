@@ -25,15 +25,15 @@ The project compares **Multiple Linear Regression** , **Ridge regression** and *
 
 ## STEPS IN THE CODE
 
-1.**Import Libraries** -> numpy, pandas, matplotlib, seaborne, scikit-learn
-2.**Load Dataset** -> 'Cars-MPG Dataset' 
-3.**Data Cleansing** -> Removed Missing Values
-4.**EDA - EXploratory Data Analysis** -> boxplots, scatterplot, histogram, correlation-heatmap
-5.**Feature Engineering** -> created 'power_to_weight' and 'car_age'
-6.**Define Features and Target** 
-7.**Train-Test-Split** -> (80% training, 20% testing)
-8.**Feature Scaling** -> used standard sacling
-9.**Train Models**
+1. **Import Libraries** -> numpy, pandas, matplotlib, seaborne, scikit-learn
+2. **Load Dataset** -> 'Cars-MPG Dataset' 
+3. **Data Cleansing** -> Removed Missing Values
+4. **EDA - EXploratory Data Analysis** -> boxplots, scatterplot, histogram, correlation-heatmap
+5. **Feature Engineering** -> created 'power_to_weight' and 'car_age'
+6. **Define Features and Target** 
+7. **Train-Test-Split** -> (80% training, 20% testing)
+8. **Feature Scaling** -> used standard sacling
+9. **Train Models**
   - Multiple Linear Regression
   - Ridge Regression
   - Lasso Regression
