@@ -18,7 +18,7 @@ The project compares **Multiple Linear Regression** , **Ridge regression** and *
 - Models used:
   - Multiple Linear Regression
   - Ridge Regression
-    - Lasso Regression
+  - Lasso Regression
 
 ---- 
 
