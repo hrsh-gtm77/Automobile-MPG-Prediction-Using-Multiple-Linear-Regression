@@ -8,17 +8,17 @@ The project compares **Multiple Linear Regression** , **Ridge regression** and *
 ----
 
 ## PROJECT OVERVIEW 
-Dataset: [https://www.kaggle.com/datasets/raghupalem/auto-mpg-data-set]
+- Dataset: [https://www.kaggle.com/datasets/raghupalem/auto-mpg-data-set]
 
-the target variable is **MPG** (fuel efficiency)
-Additional engineered features:
-**power_to_weight** = horsepower / weight 
-**car_age** = 2025 - model_year
+- The target variable is **MPG** (fuel efficiency)
+- Additional engineered features:
+  - **power_to_weight** = horsepower / weight 
+  - **car_age** = 2025 - model_year
 
-Models used:
-Multiple Linear Regression
-Ridge Regression
-Lasso Regression
+- Models used:
+  - Multiple Linear Regression
+  - Ridge Regression
+    - Lasso Regression
 
 ---- 
 
